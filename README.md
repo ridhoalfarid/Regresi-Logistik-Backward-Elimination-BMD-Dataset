@@ -37,6 +37,7 @@ Hasil _Backward Elimination_ 3
 Berdasarkan gambar di atas, dapat dilihat bahwa semua variabel telah 
 signifikan (p-value < 0,05). Untuk memprediksi fracture, dapat dimulai dengan 
 menuliskan persamaan menggunakan keofisien dari model:
+
 ![alt text](https://github.com/ridhoalfarid/Regresi-Logistik-Backward-Elimination/blob/main/public/persamaan.png?raw=true)
 
 Ketepatan Klasifikasi
@@ -44,6 +45,7 @@ Untuk menentukan besarnya ketepatan klasifikasi dilakukan menggunakan data uji. 
 ![alt text](https://github.com/ridhoalfarid/Regresi-Logistik-Backward-Elimination-BMD-Dataset/blob/main/public/klasifikasi.png?raw=true)
 
 Berdasarkan gambar di atas diperoleh akurasi model sperti gambar berikut.
+
 
 ![alt text](https://github.com/ridhoalfarid/Regresi-Logistik-Backward-Elimination-BMD-Dataset/blob/main/public/accuracy.png?raw=true)
 
