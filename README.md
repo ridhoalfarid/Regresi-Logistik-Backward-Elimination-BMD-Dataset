@@ -41,6 +41,7 @@ menuliskan persamaan menggunakan keofisien dari model:
 ![alt text](https://github.com/ridhoalfarid/Regresi-Logistik-Backward-Elimination/blob/main/public/persamaan.png?raw=true)
 
 Ketepatan Klasifikasi
+
 ![alt text](https://github.com/ridhoalfarid/Regresi-Logistik-Backward-Elimination-BMD-Dataset/blob/main/public/klasifikasi.png?raw=true)
 Berdasarkan gambar di atas diperoleh ketepatan klasifikasi dengan menggunakan data _testing_. Sehingga dapat diketahui akurasi model sperti gambar berikut.
 ![alt text](https://github.com/ridhoalfarid/Regresi-Logistik-Backward-Elimination-BMD-Dataset/blob/main/public/accuracy.png?raw=true)
