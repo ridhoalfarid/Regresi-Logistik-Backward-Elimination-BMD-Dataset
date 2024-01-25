@@ -45,8 +45,6 @@ Untuk menentukan besarnya ketepatan klasifikasi dilakukan menggunakan data uji. 
 ![alt text](https://github.com/ridhoalfarid/Regresi-Logistik-Backward-Elimination-BMD-Dataset/blob/main/public/klasifikasi.png?raw=true)
 
 Berdasarkan gambar di atas diperoleh akurasi model sperti gambar berikut.
-
-
 ![alt text](https://github.com/ridhoalfarid/Regresi-Logistik-Backward-Elimination-BMD-Dataset/blob/main/public/accuracy.png?raw=true)
 
 Model regresi logistik yang diperoleh cukup baik karena mampu memprediksi data dengan benar sebesar 95,23%.
