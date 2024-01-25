@@ -42,10 +42,9 @@ menuliskan persamaan menggunakan keofisien dari model:
 
 Ketepatan Klasifikasi
 ![alt text](https://github.com/ridhoalfarid/Regresi-Logistik-Backward-Elimination-BMD-Dataset/blob/main/public/klasifikasi.png?raw=true)
-                           Untuk menentukan besarnya ketepatan klasifikasi dilakukan menggunakan data uji. Sehingga didapatkan hsil seperti gambar berikut.
-Berdasarkan gambar di atas diperoleh akurasi model sperti gambar berikut.
+Berdasarkan gambar di atas diperoleh ketepatan klasifikasi dengan menggunakan data _testing_. Sehingga dapat diketahui akurasi model sperti gambar berikut.
 ![alt text](https://github.com/ridhoalfarid/Regresi-Logistik-Backward-Elimination-BMD-Dataset/blob/main/public/accuracy.png?raw=true)
-                           Model regresi logistik yang diperoleh cukup baik karena mampu memprediksi data dengan benar sebesar 95,23%.
+Model regresi logistik yang diperoleh cukup baik karena mampu memprediksi data dengan benar sebesar 95,23%.
 
 
 
