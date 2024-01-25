@@ -1,5 +1,5 @@
 # Regresi-Logistik-Backward-Elimination untuk Mengetahui Faktor yang Memengaruhi Patah Tulang (_Fracture_)
-Pemodelan regresi logistik menggunakan _backward elimination_ untuk mengetahui faktor yang mempengaruhi  status patah tulang (_fracture_). Variabel yang digunakan untuk memprediksi _fracture_ adalah variabel usia (_age_), jenis kelamin (_sex_), BMI, dan BMD. BMI diperoleh melalui _wight_kg_/(_height_cm_/100)^2.
+Pemodelan regresi logistik menggunakan _backward elimination_ untuk mengetahui faktor yang memengaruhi  status patah tulang (_fracture_). Variabel yang digunakan untuk memprediksi _fracture_ adalah variabel usia (_age_), jenis kelamin (_sex_), BMI, dan BMD. BMI diperoleh melalui _wight_kg_/(_height_cm_/100)^2.
 
 Pada variabel _fracture_ 0 adalah _no fracture_ dan 1 adalah  _fracture_.
 
